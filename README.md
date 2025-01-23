@@ -1,6 +1,6 @@
 
 # Hazard-Incident-Analysis
-This is an analysis of Hazards in the construction sector (Building) to help know the hazards they are faced with and how to reduce its occurrence to create a safe working enironments for workers.
+This is apersonal project to practice my skillsets in Data science and Safety. It is an analysis of Hazards in the construction sector (Building) to help know the hazards they are faced with and how to reduce its occurrence to create a safe working enironments for workers.
 # Introduction
 The dataset was gotten from Kaggle it contained 4847 rows and 28 columns, with categorical and numeric columns.
 The dataset contains information about occupational safety and health incidents, with columns like:
