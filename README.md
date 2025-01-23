@@ -1,9 +1,19 @@
 
 # Hazard-Incident-Analysis
 This is an analysis of Hazards in the construction sector (Building) to help know the hazards they are faced with and how to reduce its occurrence to create a safe working enironments for workers.
-
 # Introduction
 The dataset was gotten from Kaggle it contained 4847 rows and 28 columns, with categorical and numeric columns.
+The dataset contains information about occupational safety and health incidents, with columns like:
+•	summary_nr: Unique identifier for incidents.
+•	Event Date: Date of the incident.
+•	Abstract Text: Detailed description of the event.
+•	Event Description: A summary of the incident.
+•	Event Keywords: Key terms associated with the event.
+•	Event type: Type of incident (e.g., "Fall," "Caught in or between").
+•	Environmental Factor: Contributing environmental conditions.
+•	Human Factor: Contributing human behaviors or errors.
+•	Task Assigned: Whether the task was assigned regularly.
+•	hazsub, fat_cause, fall_ht: Details about hazardous substances, fatal causes, and fall height.
 Steps for Analysis
 1.	Data Cleaning:
 o	Check for missing or inconsistent values.
@@ -16,10 +26,7 @@ o	Perform text analysis on "Abstract Text" or "Event Keywords" for trends.
 o	Correlate factors using statistical or machine learning techniques.
 4.	Visualization:
 o	Use tools like Matplotlib, Seaborn.
-
-
 ![image](https://github.com/user-attachments/assets/a6745f78-f09a-4a20-b74a-4c26eab25adb)
-
 
 # Data Exploration
 # Tools used fo Analysis : 
@@ -94,14 +101,51 @@ Commercial buildings cause majority of the hazards in the construction site whil
 ![image](https://github.com/user-attachments/assets/04c2f4fd-b515-474a-aeb8-f510a0d6ef19)
 # confussion matrix visual
 ![image](https://github.com/user-attachments/assets/955e9b71-1671-4ed7-84ae-fc1e00389e34)
-# 4.	Automate insights
-	Generate automated reports summarizing key findings.
 
-![image](https://github.com/user-attachments/assets/c0add120-0a14-4aba-8350-cf02be5bd984)
-
-
-
-
-
+# 4.	key insights and Recommendation:
 From the Analysis we can see that Wednesday recorded the day with the highest incident and Sunday with the lowest incident
-From the monthly hazard analysis, March had the highest record with June the lowest
+  # Incident Trends Over Time
+*The analysis showed that March had the highest record with 717 incidents and June the lowest with 154 incidents.
+o	From the Analysis we can see that Wednesday recorded the day with the highest incident of 930 and Sunday with the lowest incident with 206 probably because they work less on weekends and more during the week.
+# .	Categorical Analysis
+o	What are the most common event types are "Falls(elevation)", "Struck-by", "caught in between', 'shock', with the least "inhalation of substance"Event_type
+Fall (from elevation)    1145
+Struck-by                1117
+Caught in or between     1109
+Other                     629
+Shock                     189
+o	The Human factor that leads to incidents includes:
+Materials Handling Equip./Method           625
+Work-Surface/Facility-Layout Condition     590
+Pinch Point Action                         416
+Overhead Moving/Falling Object Action      314
+Catch Point/Puncture Action                183
+
+The Human factor that leads to incidents include: 
+
+Misjudgment, Hazardous Situation         1364
+Safety Devices Removed/Inoperable        266
+Position Inappropriate For Task          215
+Mater-Handling Procedure Inappropriate   153
+Insufficient /Lack/Engineering Controls  148
+
+# Severity Analysis
+o	The degree of severity of these incidents are mostly fatal which may lead to death.
+
+# Industry-Specific Insights
+o	the construction end use was more for commercial purpose.
+Commercial building                       272
+Single family or duplex dwelling          189
+Other building                            138
+Multi-family dwelling                     125
+Highway, road, street                      81
+Manufacturing plant                        37
+
+# Preventative Recommendations
+-- Staffs and workers should be trained adequately on how to identify hazards and how to avoid and prevent it from happening so as to reduce the risk of death, fallings and other injuries as well as provide a safe working environment. 
+-- The use of controls like
+Engineering Administrative controls
+Administrative controls
+PPEs like Helmet, scaffoldings, boots, etc.
+
+
