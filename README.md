@@ -35,6 +35,23 @@ Transformed the Event_Date column to Date time so i can Extract the days, month,
 From the Analysis we can see that Wednesday recorded the day with the highest incident and Sunday with the lowest incident
 ![image](https://github.com/user-attachments/assets/e96f8958-7705-4288-ae50-fe72f128e255)
 From the monthly hazard analysis, March had the highest record with June the lowest
+![image](https://github.com/user-attachments/assets/136bc6d6-dc92-415c-954a-1da7713e7268)
+performed yearly Hazard between 2015 -2017 and year 2017 had the highest incident record with a total of 2309,  and year 2015 had the least hazards records of 803.
+![image](https://github.com/user-attachments/assets/59e05a01-3232-4422-b743-0a01270692f2)
+![image](https://github.com/user-attachments/assets/817b311a-d0e8-4aa8-9945-cf8dd260e0e8)
+Performed analysis using scatter plot to show the relationship between th nature of injury and how fatl it is, it was recorded that the fatal incident type was more
+![image](https://github.com/user-attachments/assets/4419cbed-7597-4039-aa15-472691d18715)
+Fall from height was the highest event type that lead to death and serious injury of workers on site while Inhalation of substances was the least harmful
+ ![image](https://github.com/user-attachments/assets/2f3e8496-6368-4617-a75b-fc872b15f60b)
+analysed the haz-sub column and the degree of injury using the boxplot to show the relationship
+![image](https://github.com/user-attachments/assets/2ab21f97-d17c-4529-8ce9-b984925c801e)
+
+ 
+ 
+
+
+
+
 
  ![image](https://github.com/user-attachments/assets/860708fc-3267-464e-b340-955da6bf7eb2)
 ![image](https://github.com/user-attachments/assets/239a5336-0101-4f62-bce5-d612b38b26b5)
