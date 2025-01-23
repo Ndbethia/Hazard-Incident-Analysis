@@ -64,8 +64,42 @@ I imported my Libraries for the analysis so as to explore and understand my data
 ![image](https://github.com/user-attachments/assets/2d572d94-4342-4a9d-8ddd-6fbd026a8969)
 # Analysed the human factor that can lead to incidents 
 ![image](https://github.com/user-attachments/assets/d270473f-b247-4876-8f77-c957e6fbb363)
+![image](https://github.com/user-attachments/assets/76a0b418-0ba0-4373-ae87-29cc41a0b708)
 Misjudgement by workers
 inappropriate equipment can lead to a terrible incident
+# Construction End use 
+Commercial buildings cause majority of the hazards in the construction site while sewer has little impact or potential of causing hazards
+![image](https://github.com/user-attachments/assets/6b93bc15-ab4b-4096-a010-dc617a2e1374)
+
+# Transform categorical data to numeric date for machine learning and predictions
+![image](https://github.com/user-attachments/assets/4fefb2d7-b05d-4c92-ad0d-b90f2ea2cfea)
+![image](https://github.com/user-attachments/assets/496828d9-a67c-4e2d-a073-8fb4331e7f82)
+
+# 3.	Build a predictive model: 
+# importing machine learning models
+![image](https://github.com/user-attachments/assets/7b774548-6b7c-4afc-bfa9-6bedf4586393)
+	Use classification models (e.g., Random Forest, Logistic Regression) to predict high-risk incidents based on: 
+	day,month year.
+	Location characteristics.
+	Historical incident data.
+	Evaluate model accuracy using metrics like precision, recall, and F1-score.
+# preparing data for modelling
+![image](https://github.com/user-attachments/assets/7285874f-3373-4ba2-876a-3a1b35874103)
+![image](https://github.com/user-attachments/assets/c331a721-51d4-4f7d-b056-3a4f6b809549)
+# splitting, training and testing data
+![image](https://github.com/user-attachments/assets/979e4a85-451d-411f-a937-47a1e5fca3c8)
+![image](https://github.com/user-attachments/assets/c4a4651b-79f6-4d96-8e4a-aa69cfad1034)
+![image](https://github.com/user-attachments/assets/654b8085-7006-4f39-94d5-b99b510b32f2)
+# prediction of score
+![image](https://github.com/user-attachments/assets/04c2f4fd-b515-474a-aeb8-f510a0d6ef19)
+# confussion matrix visual
+![image](https://github.com/user-attachments/assets/955e9b71-1671-4ed7-84ae-fc1e00389e34)
+# 4.	Automate insights
+	Generate automated reports summarizing key findings.
+
+![image](https://github.com/user-attachments/assets/c0add120-0a14-4aba-8350-cf02be5bd984)
+
+
 
 
 
