@@ -29,6 +29,12 @@ I imported my Libraries for the analysis so as to explore and understand my data
  I described my data to derive insights and determine outliers and relationships
  ![image](https://github.com/user-attachments/assets/36a657e1-8821-49f0-8f3f-3e2994bd43ec)
  ![image](https://github.com/user-attachments/assets/008fe8f1-1fbc-4a39-aef9-8f8d4ac117b0)
+Transformed the Event_Date column to Date time so i can Extract the days, month, Year
+![image](https://github.com/user-attachments/assets/1543a08a-9b3a-42cc-bd9a-fedda464ed01)
+![image](https://github.com/user-attachments/assets/d40af0b7-35af-47e4-99d8-3e4bf2fe0d18)
+From the Analysis we can see that Wednesday recorded the day with the highest incident and Sunday with the lowest incident
+![image](https://github.com/user-attachments/assets/e96f8958-7705-4288-ae50-fe72f128e255)
+From the monthly hazard analysis, March had the highest record with June the lowest
 
  ![image](https://github.com/user-attachments/assets/860708fc-3267-464e-b340-955da6bf7eb2)
 ![image](https://github.com/user-attachments/assets/239a5336-0101-4f62-bce5-d612b38b26b5)
@@ -47,3 +53,5 @@ I imported my Libraries for the analysis so as to explore and understand my data
 4.	Automate insights: 
 	Generate automated reports summarizing key findings.
 
+From the Analysis we can see that Wednesday recorded the day with the highest incident and Sunday with the lowest incident
+From the monthly hazard analysis, March had the highest record with June the lowest
